@@ -1,0 +1,98 @@
+*{
+	font-family: 'Oswald';
+}
+
+.back{
+	background-image: url("C:/Users/Alumna/Desktop/NayeliCarbajal/Pretiffy/images/background.jpg");
+	background-size: 100%;
+	width: 100%;
+	height: 300px;
+	margin-top: -20px;
+	position: relative;
+}
+nav ul{
+	
+	list-style-type: none;
+	margin-bottom:60px;
+	margin-left: 300px;
+	font-size: 14px;
+	
+	text-decoration: none;
+}
+nav li{
+	display: inline-block;
+	margin-top: 30px;
+	padding: 0;
+
+}
+nav a{	
+	
+	text-decoration: none;
+	padding: 10px 15px;
+	color: black;	
+}
+.logo{
+	position: absolute;
+	margin-left: -530px;
+	margin-top: 60px;
+}
+h1{
+	color: white;
+	margin-left: 380px;
+	margin-top: -160px;
+	position: absolute;
+}
+h3{
+	color: white;
+	margin-left: 390px;
+	margin-top: -120px;
+	position: absolute;
+}
+h4{
+	color: purple;
+	margin-left: 420px;
+	padding-top: 60px;
+
+}
+#prof{
+	width: 150px;
+	height: 160px;
+	border: 1px solid black;
+	float: right;
+}
+#p1{
+	font-size: 12px;
+	float: left;
+}
+h5{
+	color: purple;
+	margin-left: 400px;
+	padding-top: 10px;
+}
+#kit{
+	width: 120px;
+	height: 120px;
+	border-radius: 100%;
+	border: double 4px purple;
+	margin-left: 20px;
+}
+.kit1{
+	margin-left: 180px;
+	margin-top: 20px;
+}
+footer{
+	background-color: #CEF6F5;
+}
+#contact{
+	color: purple;
+	margin-left: 450px;
+	font-size: 20px;
+}
+.foot{
+	width: 100px;
+	height: 100px;
+	padding: 10px;
+}
+.foot1{
+	margin-left: 330px;
+}
